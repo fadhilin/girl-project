@@ -14,8 +14,8 @@ body {
 }
 
 .popup {
-  width: 1000px;
-  height: 300px;
+  width: 500px;
+  height: 400px;
   position: fixed;
   text-align: center;
   font-size: 22px;
@@ -66,7 +66,7 @@ body {
 .closeBtn {
   position: absolute;
   top: 5px;
-  right: 10px;
+  right: 30px;
   cursor: pointer;
   font-size: 20px;
   font-weight: bold;
